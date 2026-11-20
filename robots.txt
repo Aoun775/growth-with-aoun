@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aoun775.github.io/growth-with-aoun/sitemap.xml
